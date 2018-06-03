@@ -14,7 +14,7 @@
   * 不支持`<br>`，也就无法在表格中换行
   * 不支持标签tags（也行还没有研究到）
 
- ### 0. 目录{#index}
+ ### 0. List{#index}
 
 ### 快捷键
 
@@ -101,7 +101,7 @@ Draw Diagrams With Markdown [^🔗^](https://support.typora.io/Draw-Diagrams-Wit
 ## 0. 目录{#index}
 跳转到[目录](#index)
 ```
-跳转到[目录](#index)
+跳转到[List](#index)
 
 
 ## ![001750nzyyah96l6mbkhmy](assets/001750nzyyah96l6mbkhmy.png)
