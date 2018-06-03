@@ -14,7 +14,7 @@
   * 不支持`<br>`，也就无法在表格中换行
   * 不支持标签tags（也行还没有研究到）
 
-[this is test](#eee)
+this is test{#eee}
 
 ### 快捷键
 
@@ -95,7 +95,7 @@ Draw Diagrams With Markdown [^🔗^](https://support.typora.io/Draw-Diagrams-Wit
 
 
 
-[锚点](#eee)
+[锚点]{#eee}
 
 ```markdown
 ## 0. 目录{#index}
